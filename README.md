@@ -1,1 +1,3 @@
-# TypeLevelSummitBerlin2018
+# TypeLevel Summit Berlin 2018
+
+Presentation materials
